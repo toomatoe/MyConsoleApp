@@ -1,1 +1,1 @@
-#Need to learn ts for my internship bruh
+Need to learn ts for my internship bruh
