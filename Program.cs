@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("The date and time is: " + DateTime.Now);
+﻿public class PrintMessage{
+    public void ShowMessage(){
+        System.Console.WriteLine("Hello, World!");
+    }
+}
