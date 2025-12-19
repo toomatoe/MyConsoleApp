@@ -1,5 +1,5 @@
 
-public class Program
+public class Array
 {
     public static void Main(string[] args)
 {
