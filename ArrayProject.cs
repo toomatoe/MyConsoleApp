@@ -12,7 +12,15 @@ fraudulentOrderIDs[2] = "C789";
 Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
 Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
 Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
+
+for (int i = 0; i < fraudulentOrderIDs.Length; i++)
+        {
+    Console.WriteLine(fraudulentOrderIDs[i]);
+        }
+        }
 }
-}
+        
+
+  
 
 
